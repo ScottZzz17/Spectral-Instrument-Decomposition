@@ -287,4 +287,4 @@ if __name__ == '__main__':
 
 For further discussion, collaboration, or a private demonstration of the system’s capabilities, please contact:
 - **Email:** szaragoza2@wisc.edu  
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/scott-zaragoza-198401329)
+- **LinkedIn:** ([https://www.linkedin.com/in/scott-zaragoza-198401329/](https://www.linkedin.com/in/scott-zaragoza-198401329/))
